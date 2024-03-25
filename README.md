@@ -1,2 +1,2 @@
 # SuperSnakes
-> Singleplayer version of the game -- multiple coming soon(ish?).
+> Singleplayer version of the game -- multiplayer coming soon(ish?).
